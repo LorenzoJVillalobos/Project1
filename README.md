@@ -8,7 +8,7 @@ The website was developed using HTML and CSS and is published through GitHub Pag
 
 ## Live Website
 
-https://YOUR-USERNAME.github.io/Project1/
+https://LorenzoJVillalobos.github.io/Project1/
 
 ## Documentation
 
